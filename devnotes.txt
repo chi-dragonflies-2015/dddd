@@ -1,0 +1,6 @@
+Example D3 commands:
+d3.selectAll("p").style("color", "white");
+d3.select("body").style("background-color", "black");
+
+My station:
+312 Clarendon Ave & Gordon Ter  41.957879 -87.649519  15  379 9/20/2013
