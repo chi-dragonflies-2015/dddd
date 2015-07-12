@@ -1,0 +1,109 @@
+{
+ "name": "flare",
+ "children": [
+      {
+        "name": "circle01",
+        "children": [
+          {"name": "Not enough sleep", "size": 6725}
+        ]
+      },
+
+      {
+        "name": "circle02",
+        "children": [
+          {"name": "Can't handle 14 hours a day", "size": 3727}
+        ]
+      },
+
+      {
+        "name": "circle03",
+        "children": [
+          {"name": "Too many drugs in his youth", "size": 9317}
+        ]
+      },
+
+      {
+        "name": "circle04",
+        "children": [
+          {"name": "Everyone else is half as old and twice as fast", "size": 12003}
+        ]
+      },
+
+      {
+        "name": "circle05",
+        "children": [
+          {"name": "Can't write a Gemfile", "size": 4853}
+        ]
+      },
+
+      {
+        "name": "circle06",
+        "children": [
+          {"name": "No, seriously, can't write a Gemfile", "size": 8411}
+        ]
+      },
+
+      {
+        "name": "circle07",
+        "children": [
+          {"name": "His parents think he's dead", "size": 4864}
+        ]
+      },
+
+      {
+        "name": "circle08",
+        "children": [
+          {"name": "MERCHANDISE MART", "size": 3174}
+        ]
+      },
+
+      {
+        "name": "circle09",
+        "children": [
+          {"name": "Still hasn't finished Game of Thrones", "size": 7881}
+        ]
+      },
+
+      {
+        "name": "circle10",
+        "children": [
+          {"name": "River North bar patrons must die", "size": 12870}
+        ]
+      },
+
+      {
+        "name": "circle11",
+        "children": [
+          {"name": "SHOVELS", "size": 2728}
+        ]
+      },
+
+      {
+        "name": "circle12",
+        "children": [
+          {"name": "Still won't find a job", "size": 12348}
+        ]
+      },
+
+      {
+        "name": "circle13",
+        "children": [
+          {"name": "GONGS", "size": 870}
+        ]
+      },
+
+      {
+        "name": "circle14",
+        "children": [
+          {"name": "Should've just become a barista", "size": 9121}
+        ]
+      },
+
+      {
+        "name": "circle15",
+        "children": [
+          {"name": "HackReactor will kill us all", "size": 9191}
+        ]
+      }
+ ]
+}
